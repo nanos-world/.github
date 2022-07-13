@@ -2,7 +2,8 @@
 
 Here you can find the official [issues & bugs tracker](https://issues.nanos.world) and all official open source nanos world repositories!
 
-<a href="https://store.steampowered.com/app/1841660/nanos_world/" target="_blank">![wishlist-now](https://user-images.githubusercontent.com/6226807/167411599-80e71bae-d60a-466a-af5e-a9bc0180c1db.png)</a>
+<a href="https://store.steampowered.com/app/1841660/nanos_world/" target="_blank">![wishlist-now](https://user-images.githubusercontent.com/6226807/178711097-d3e3be2e-a909-4ba0-91b9-3a62d14a7664.png)</a>
+
 
 ### Official Game Modes
 - https://github.com/nanos-world/nanos-world-sandbox
